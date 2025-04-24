@@ -13,7 +13,7 @@ Ikuti langkah-langkah berikut untuk menjalankan aplikasi di mesin lokal Anda:
    - Pastikan [Git](https://git-scm.com/) terinstall.
    - Clone repository aplikasi ini:
      ```bash
-     git clone
+     git clone git@github.com:rusdifz/chess-board-nestjs.git
      ```
 
 2. **Navigasi ke Direktori Proyek**:
